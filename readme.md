@@ -76,6 +76,6 @@ GitHub - https://github.com/Raphaelavazq
 Frontend Mentor - @Raphaelavazq
 
 
-## Acknowledgments
+
 
 
