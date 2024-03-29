@@ -30,8 +30,8 @@ It's a simple, responsive QR code component designed to enhance my front-end dev
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-layout-with-html5-and-css-flexbox-6w9oyPKJgo)
+- Live Site URL: [[Add live site URL here](https://your-live-site-url.com](https://qr-code-f2s.pages.dev/))
 
 ## My process
 
@@ -76,6 +76,6 @@ GitHub - https://github.com/Raphaelavazq
 Frontend Mentor - @Raphaelavazq
 
 
-## Acknowledgments
+
 
 
